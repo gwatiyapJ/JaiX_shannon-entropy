@@ -250,7 +250,7 @@ Applications:-
 #==========================================
 
 # Clone your fork
-git clone https://github.com/yourusername/shannon-entropy-clustal.git
+git clone https://github.com/yourusername/JaiX_shannon-entropy.git
 cd shannon-entropy-clustal
 
 # Create virtual environment
@@ -277,6 +277,6 @@ If you use this tool in your research, please cite:
   author = James SA,
   title = {Shannon Entropy Analysis for Clustal Omega Alignments},
   year = {2026},
-  url = {https://github.com/yourusername/shannon-entropy-clustal},
+  url = {https://github.com/gwatiyapJ/JaiX_shannon-entropy},
   version = {1.0.0}
 }
